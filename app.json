@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.yuka9916.exponewsapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "newsApikey": "8d57b4bb56db4cd98ff1735357791ee8",
+      "eas": {
+        "projectId": "ef7d4468-3139-45c2-aff2-3b49e11bd706"
+      }
     }
   }
 }
